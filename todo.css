@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    color: aliceblue;
+}
+body{
+    height: 100%;
+    width: 100vw;
+    background-image: url("./img/back.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+.container{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    border: 2px solid white;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px 10px black;
+    border-radius: 6px;
+}
+h4{
+    margin-top: 40px;
+}
+.black{
+    color: black;
+}
+.Due-date {
+    /* margin-top: 25px; */
+    margin-left: -15px;
+}
+#set-date{
+    border: 1px solid black;
+} 
+.btn{
+    background-color:#708306;
+    color: white;
+    padding: 4px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 4px;
+}
+.btn:hover{
+    background-color:rgb(244, 242, 240);  
+    color: black;  
+}
+.todo-input{
+    color: black;
+    padding: 4px;
+    margin-top: 4px;
+    width: 330px;
+    border: 1.5px solid black;
+    border-radius: 4px;
+}
+.set {
+    display: inline-block;
+    width: 24px;
+}
+.todo-input, .btn, .todos-container {
+    margin-top: 4px;
+}
+
+.todos {
+    list-style-type: none;
+    padding: 10px;
+    color: black;
+    max-height: 250px;
+    overflow-y: auto;
+    width: 100%; 
+}
+.todo-item li {
+    color: grey;
+}
+
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #708306;
+    border-radius: 4px;
+    word-wrap: break-word;
+}
+
+.completed .task {
+    text-decoration: line-through;
+    color: rgb(67, 67, 67);
+}
+
+.complete-radio {
+    margin-right: 10px;
+}
+
+.delete-btn {
+     background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+}
+
+/* media query */
+@media screen and (max-width: 635px) {
+    .container {
+        height: auto;
+        width: 90%;
+        padding: 10px; 
+    }
+    .todos {
+        max-height: 200px; 
+        width: 100%;
+    }
+    h4 {
+        margin-top: 20px;
+    }
+}
