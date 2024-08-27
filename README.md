@@ -21,4 +21,22 @@ This project is a simple, feature-rich to-do list web application built with HTM
 
 ## Author
 This project was created by **Shaziya Khanam**.
+![Screenshot 2024-08-27 225246](https://github.com/user-attachments/assets/9437027b-79b6-437a-bf65-74790eb963a5)
+
+
+![Screenshot 2024-08-27 225421](https://github.com/user-attachments/assets/5109a2a6-888f-46e8-a0d3-49ceca0ac606)
+
+
+![Screenshot 2024-08-27 225432](https://github.com/user-attachments/assets/25cb3d40-2cfb-4fe7-9e94-0d781a73b7c3)
+
+
+![Screenshot 2024-08-27 225441](https://github.com/user-attachments/assets/7a164297-527d-4252-b7bf-d6d57db1a7ac)
+
+
+
+
+
+
+ 
+
  
