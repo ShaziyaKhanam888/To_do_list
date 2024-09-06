@@ -19,8 +19,8 @@ This project is a simple, feature-rich to-do list web application built with HTM
 - **todo.css**: The CSS file for styling the application.
 - **todo.js**: The JavaScript file that contains the logic for managing tasks.
 
-## Author
-This project was created by **Shaziya Khanam**.
+**##Screenshots**
+ 
 ![Screenshot 2024-08-27 225246](https://github.com/user-attachments/assets/9437027b-79b6-437a-bf65-74790eb963a5)
 
 
