@@ -32,6 +32,10 @@ This project was created by **Shaziya Khanam**.
 
 ![Screenshot 2024-08-27 225441](https://github.com/user-attachments/assets/7a164297-527d-4252-b7bf-d6d57db1a7ac)
 
+## Author
+
+- **Shaziya Khanam** - Developer of the To Do List project.
+
 
 
 
